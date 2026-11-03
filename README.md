@@ -39,7 +39,7 @@ This project explores rainfall patterns across Indian districts through interact
 
 ### 2. KPI Analysis
 
-![KPI Analysis](screenshots/02_kpi_analysis.jpeg)
+![KPI Analysis](screenshots/2_kpi_analysis.jpeg)
 
 ### 3. Key Analysis
 
