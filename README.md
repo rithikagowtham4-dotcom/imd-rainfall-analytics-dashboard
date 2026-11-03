@@ -43,15 +43,15 @@ This project explores rainfall patterns across Indian districts through interact
 
 ### 3. Key Analysis
 
-![Key Analysis](screenshots/03_key_analysis.jpeg)
+![Key Analysis](screenshots/3_key_analysis.jpeg)
 
 ### 4. District Comparison
 
-![District Comparison](screenshots/04_district_comparison.jpeg)
+![District Comparison](screenshots/4_district_comparison.jpeg)
 
 ### 5. Rainfall Charts
 
-![Rainfall Charts](screenshots/05_rainfall_charts.jpeg)
+![Rainfall Charts](screenshots/5_rainfall_charts.jpeg)
 
 ## Project Files
 
